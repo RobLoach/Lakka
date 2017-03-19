@@ -1,3 +1,21 @@
+# Allcade
+
+Allcade ships [Lakka](http://www.lakka.tv/), which is based off of OpenELEC/LibreELEC and libretro/RetroArch. The software that's distributed is under a number of different licenses, including GPLv3 and non-commercial code. Given this, Allcade violates the following by selling the software:
+
+- State what was changed
+- Disclose the source code
+- Include all licenses
+- Include original copyrights
+- Include install instructions
+
+Non-commercial libretro cores include:
+
+- Dinothawr
+- Final Burn Alpha
+- FMSX
+- Genesis Plus GX
+- Snes9X
+
 # Lakka - The DIY retro emulation console
 
 Lakka is a lightweight Linux distribution that transforms a small computer into a full blown emulation console.
